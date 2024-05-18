@@ -22,8 +22,8 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/github-user-explorer.git
-   cd github-user-explorer
+   git clone https://github.com/Pavelmez/Basic-Github-Users.git
+   cd Basic-Github-Users
    ```
 
 2. **Open in Android Studio**: Open the project in Android Studio.
