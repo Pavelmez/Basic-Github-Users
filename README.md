@@ -66,11 +66,10 @@ To run this project, follow these steps:
 
 ### Project Structure
 
-- `api` - Contains the Retrofit API service and API response models.
+- `retrofit` - Contains the Retrofit API service and API response models.
 - `data` - Contains the repository pattern for data handling.
-- `db` - Contains the Room database and DAO interfaces.
+- `database` - Contains the Room database and DAO interfaces.
 - `ui` - Contains the UI components like Activities, Fragments, and ViewModels.
-- `utils` - Utility classes and helper functions.
 
 ### Contributing
 
