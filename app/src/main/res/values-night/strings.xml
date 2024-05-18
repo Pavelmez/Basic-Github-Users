@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmisionAwal</string>
+    <string name="Menu">GitHub Users</string>
+    <string name="Login">Username\n</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="name">Nama\n</string>
+    <string name="favorite">Favorite</string>
+    <string name="darkmode">DarkMode</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="avatar_url">Avatar URL</string>
+    <string name="settings">Setting Button</string>
+</resources>
