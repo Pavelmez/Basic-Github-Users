@@ -50,9 +50,12 @@ To run this project, follow these steps:
 
 ### Configuration
 
-1. **API Key**: Add your GitHub API key to the `local.properties` file:
+1. **API Key**: Add your GitHub API key to the `ApiConfig.kt` file:
    ```properties
-   githubApiKey=your_github_api_key
+   .addHeader(
+      "Authorization",
+      "your_api_key"
+      )
    ```
 
 2. **Dependencies**: The project uses several libraries, including:
@@ -91,5 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
 
 ---
-
-Feel free to customize this README further based on the specifics of your project, including adding any additional details or instructions as needed.
